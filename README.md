@@ -1,2 +1,0 @@
-# sayless
-Sayless Lifestyle
